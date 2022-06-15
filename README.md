@@ -1,2 +1,2 @@
-# NaijaState
+# NaijaStates
 Nigerian States with ID
